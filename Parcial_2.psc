@@ -4,13 +4,13 @@ Proceso Parcial_2
 	Escribir "***** Algoritmo 1 ******";
 	Escribir "ingrese un numero entre 1 y 10:";
 	Leer N;
-	
+	//algoritmo 1
 	Para i<-1 Hasta N Hacer
 		Para j <-1 Hasta 4 Hacer
 			Escribir i, ", ",j^2 ,", ",c; // utilizamos dos ciclos Para anidados para recorrer i N veces y recorrer j 4 veces
 		FinPara
 	FinPara
-	
+	//algoritmo 2
 	Escribir "";
 	Escribir "***** Algoritmo 2 ******";
 	Escribir "ingrese un numero N:";
